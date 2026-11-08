@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third year Btech student pursuing Artificial Intelligence and Data Science with a strong interest in building projects and improving through hands on practice . <br>I'm curious,motivated,and always open to learning new tools and concepts.
+I'm a final year Btech student pursuing Artificial Intelligence and Data Science with a strong interest in building projects and improving through hands on practice . <br>I'm curious,motivated,and always open to learning new tools and concepts.
 
 
 ## 🌐 Socials:
